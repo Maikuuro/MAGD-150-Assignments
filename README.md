@@ -2,7 +2,7 @@
 
 This is a repository for MAGD 150
 
-##Lab 5 Example
+## TV Channels Example
 
 [Click to see the source code](https://github.com/Maikuuro/MAGD-150-Assignments/blob/gh-pages/f19magd150lab05_phillippi/f19magd150lab05_phillippi/sketch.js)
 
